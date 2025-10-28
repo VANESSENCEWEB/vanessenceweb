@@ -4,9 +4,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vanessa%20Rafaella&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Desenvolvedora%20Web%20em%20Formação&descAlignY=51&descAlign=50"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=500&lines=Estudante+de+Sistemas+de+Informação;Apaixonada+por+Tecnologia;Transformando+ideias+em+código" alt="Typing SVG" />
-</p>
 
 <p>
   <img src="https://img.shields.io/badge/Foco-Desenvolvimento%20Web-00F7F7?style=for-the-badge&logo=code&logoColor=white"/>
