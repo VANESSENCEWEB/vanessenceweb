@@ -1,0 +1,22 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'  # Executa a cada 12 horas
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          color_snake: '#00FF00'
+          color_dots: '#FFFFFF'
+          palette: 'github'
