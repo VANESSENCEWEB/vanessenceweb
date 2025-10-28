@@ -3,8 +3,10 @@
 <!-- Header animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vanessa%20Rafaella&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=51&descAlign=50"/>
 
-<!-- Typing SVG com efeito cyberpunk -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&height=100&lines=+%3C%2F%3E+Transformando+café+em+código;+🚀+Building+the+future%2C+one+commit+at+a+time;+💡+Innovation+%2B+Clean+Code+%3D+Success;+🎯+Shipping+products+that+matter" alt="Typing SVG" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=600&height=100&lines=%3C%2F%3E%20Transformando%20caf%C3%A9%20em%20c%C3%B3digo;%20%F0%9F%9A%80%20Building%20the%20future%2C%20;%20%F0%9F%92%A1%20Innovation%20%2B%20Clean%20Code%20%3D%20Success;%20%F0%9F%8E%AF%20Shipping%20products%20that%20matter" alt="Typing SVG" />
+</p>
 
 <!-- Badges de Status em tempo real -->
 <p>
@@ -210,7 +212,7 @@ graph LR
   </a>
 </p>
 
-### 💬 **"Code is like humor. When you have to explain it, it's bad."**
+### 💬 **Code is like humor. When you have to explain it, it's bad.**
 
 </div>
 
@@ -220,7 +222,7 @@ graph LR
 
 ## 📫 **VAMOS TRABALHAR JUNTOS?**
 
-**Estou aberto a oportunidades desafiadoras e projetos inovadores!**
+**Estou aberta a oportunidades desafiadoras e projetos inovadores!**
 
 <p>
   <img src="https://img.shields.io/badge/Disponível_para-Projetos_Freelance-00FF00?style=for-the-badge&logo=freelancer&logoColor=white"/>
@@ -235,19 +237,9 @@ graph LR
 
 ---
 
-<div align="center">
-
 ### 🐍 **Contribution Snake**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VANESSSENCEWEB/VANESSSENCEWEB/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VANESSSENCEWEB/VANESSSENCEWEB/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VANESSSENCEWEB/VANESSSENCEWEB/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VANESSSENCEWEB/VANESSSENCEWEB/output/github-contribution-grid-snake.svg">
 
 <div align="center">
 
