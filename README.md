@@ -1,257 +1,300 @@
 <div align="center">
 
-<!-- Header animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vanessa%20Rafaella&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=51&descAlign=50"/>
+<!-- Language Toggle -->
+<table>
+<tr>
+<td>
+<a href="#english">
+<img src="https://img.shields.io/badge/English-Click%20Here-blue?style=for-the-badge&logo=google-translate&logoColor=white"/>
+</a>
+</td>
+<td>
+<a href="#português">
+<img src="https://img.shields.io/badge/Português-Clique%20Aqui-green?style=for-the-badge&logo=google-translate&logoColor=white"/>
+</a>
+</td>
+</tr>
+</table>
 
+</div>
+
+---
+
+<a name="english"></a>
+## 🇬🇧 English Version
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vanessa%20Rafaella&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer%20in%20Training&descAlignY=51&descAlign=50"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=600&height=100&lines=%3C%2F%3E%20Transformando%20caf%C3%A9%20em%20c%C3%B3digo;%20%F0%9F%9A%80%20Building%20the%20future%2C%20;%20%F0%9F%92%A1%20Innovation%20%2B%20Clean%20Code%20%3D%20Success;%20%F0%9F%8E%AF%20Shipping%20products%20that%20matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=500&lines=Information+Systems+Student;Passionate+about+Technology;Turning+ideas+into+code" alt="Typing SVG" />
 </p>
 
-<!-- Badges de Status em tempo real -->
 <p>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00F7F7?style=for-the-badge&logo=target&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00FF00?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=black"/>
-  <img src="https://img.shields.io/badge/Mode-Innovation%20ON-FF00FF?style=for-the-badge&logo=rocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-00F7F7?style=for-the-badge&logo=code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Learning-00FF00?style=for-the-badge&logo=rocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-FF00FF?style=for-the-badge&logo=handshake&logoColor=white"/>
 </p>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+## 👩‍💻 About Me
 
-### 👨‍💻 **SOBRE MIM**
+Hi there! I'm an **Information Systems student at UNICAP** taking my first steps in the web development world. Currently focused on building a solid foundation in **front-end** and exploring the **JavaScript** universe.
 
-```typescript
-const developer = {
-    name: "VANESSA RAFAELLA",
-    role: "Full Stack Developer",
-    education: {
-        
-        university: "UNICAP - UNIVERSIDADE CATOLICA DE PERNAMBUCO",
+💡 **What I do:**
+- Create web interfaces with HTML, CSS, and JavaScript
+- Study programming logic and data structures
+- Practice with personal projects to solidify my learning
+- Share my learning journey
+
+🎯 **My goals:**
+- Master React and modern frameworks
+- Build complete full-stack projects
+- Contribute to open source projects
+- Land my first opportunity in tech
+
+---
+
+## 🛠️ Technologies & Tools
+
+### **Currently working with:**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+### **Learning:**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
+
+### **Databases:**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
+## 📚 Certifications
+
+🎓 **Completed Courses:**
+- [Course Name 1] - Institution/Platform
+- [Course Name 2] - Institution/Platform
+- [Course Name 3] - Institution/Platform
+
+> 💡 *Certificates available upon request*
+
+---
+
+## 🚀 Projects in Development
+
+📌 **Coming soon!** I'm working on hands-on projects to apply my knowledge. 
+
+Meanwhile, you can track my progress through daily commits! 💪
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VANESSENCEWEB&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VANESSENCEWEB&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF"/>
+</div>
+
+---
+
+## 🌱 Learning Journey
+```javascript
+const vanessa = {
+    currentRole: "Information Systems Student @ UNICAP",
+    learning: ["JavaScript", "React", "Node.js"],
+    goal2025: "Land my first dev position",
+    hobbies: ["Coding", "Debugging", "Coffee"],
+    languages: {
+        native: "Portuguese 🇧🇷",
+        fluent: "English 🇬🇧"
     },
-    code: ["JavaScript", "TypeScript", "Python", "Java"],
-    askMeAbout: ["web dev", "tech", "architecture", "optimization"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind", "Chakra UI", "Styled Components"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Django", "FastAPI"],
-            java: ["Spring Boot"]
-        },
-        databases: ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
-        devOps: ["Docker", "AWS", "CI/CD", "Kubernetes"],
-        tools: ["Git", "Jest", "Webpack", "Vite"]
-    },
-    architecture: ["Microservices", "Event-Driven", "REST APIs", "GraphQL"],
-    currentFocus: "Building scalable and performant applications",
-    funFact: "Debugar é como ser um detetive em um filme de crime onde você também é o assassino"
+    quote: "Every line of code is a step toward the dream! 💙"
 };
 ```
 
-<br clear="both">
-
 ---
 
+## 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/vanessarafaella" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:imvanessarafaella@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/VANESSENCEWEB" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 <div align="center">
+  
+### 💬 *"The hardest code is the first one. After that, just keep going!"*
 
-## 🎯 **ARSENAL TECNOLÓGICO**
-
-### **Frontend Development**
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,sass,redux,vite&theme=dark&perline=10" />
-
-### **Backend & Database**
-<img src="https://skillicons.dev/icons?i=nodejs,python,django,java,spring,express,fastapi,postgres,mysql,mongodb&theme=dark&perline=10" />
-
-### **DevOps & Tools**
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,githubactions,jenkins,linux,nginx,bash&theme=dark&perline=10" />
-
-### **Testing & Quality**
-<img src="https://skillicons.dev/icons?i=jest,cypress,playwright,postman&theme=dark&perline=8" />
+<img src="https://komarev.com/ghpvc/?username=VANESSENCEWEB&color=00F7F7&style=for-the-badge&label=Visitors" alt="Profile Views"/>
 
 </div>
 
 ---
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
 <div align="center">
-
-## 📊 **PERFORMANCE METRICS**
-
-<!-- Stats Cards em Grid -->
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=VANESSENCEWEB&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&ring_color=00F7F7&fire_color=FF6B6B&count_private=true&include_all_commits=true&custom_title=⚡+GitHub+Stats" alt="GitHub Stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=VANESSENCEWEB&theme=radical&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=8B949E" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=VANESSENCEWEB&custom_title=📈+Contribution+Graph&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF&area=true&area_color=00F7F7&theme=react-dark" alt="Contribution Graph" />
-    </td>
-  </tr>
-</table>
-
-<!-- Most Used Languages com visual aprimorado -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VANESSENCEWEB&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=8&custom_title=💻+Most+Used+Languages" />
+  
+**✨ Made with 💙 and dedication | Under construction... like every good dev! 🚀**
 
 </div>
 
 ---
 
+<a name="português"></a>
+## 🇧🇷 Versão em Português
+
 <div align="center">
 
-## 🏆 **CONQUISTAS & TROFÉUS**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vanessa%20Rafaella&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Desenvolvedora%20em%20Formação&descAlignY=51&descAlign=50"/>
 
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=VANESSENCEWEB&theme=radical&no-frame=true&no-bg=true&row=2&column=7&margin-w=10&margin-h=10&title=Commits,Repositories,PullRequest,Stars,Followers,Issues,Experience" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=500&lines=Estudante+de+SI+%7C+UNICAP;Apaixonada+por+tecnologia;Transformando+ideias+em+código" alt="Typing SVG" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Foco-Desenvolvimento%20Web-00F7F7?style=for-the-badge&logo=code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Aprendendo-00FF00?style=for-the-badge&logo=rocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Aberta%20a-Oportunidades-FF00FF?style=for-the-badge&logo=handshake&logoColor=white"/>
+</p>
 
 </div>
 
 ---
 
-## 💼 **PROJETOS DE DESTAQUE**
+## 👩‍💻 Sobre Mim
+
+Olá! Sou estudante de **Sistemas de Informação na UNICAP** e estou dando meus primeiros passos no mundo do desenvolvimento web. Atualmente focada em construir uma base sólida em **front-end** e explorando o universo do **JavaScript**.
+
+💡 **O que eu faço:**
+- Crio interfaces web com HTML, CSS e JavaScript
+- Estudo lógica de programação e estrutura de dados
+- Pratico com projetos pessoais para solidificar o aprendizado
+- Compartilho minha jornada de estudos
+
+🎯 **Meus objetivos:**
+- Dominar React e frameworks modernos
+- Construir projetos full stack completos
+- Contribuir com projetos open source
+- Conseguir minha primeira oportunidade na área
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### **Trabalhando atualmente:**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+### **Estudando:**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
+
+### **Banco de Dados:**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
+## 📚 Certificações
+
+🎓 **Cursos Concluídos:**
+- [Nome do Curso 1] - Instituição/Plataforma
+- [Nome do Curso 2] - Instituição/Plataforma
+- [Nome do Curso 3] - Instituição/Plataforma
+
+> 💡 *Certificados disponíveis mediante solicitação*
+
+---
+
+## 🚀 Projetos em Desenvolvimento
+
+📌 **Em breve!** Estou trabalhando em projetos práticos para aplicar meus conhecimentos. 
+
+Enquanto isso, você pode acompanhar meu progresso nos commits diários! 💪
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-
-<!-- Cards de Projetos -->
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/VANESSENCEWEB/PROJETO1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VANESSENCEWEB&repo=PROJETO1&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/VANESSENCEWEB/PROJETO2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VANESSENCEWEB&repo=PROJETO2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/VANESSENCEWEBE/PROJETO3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VANESSENCEWEB&repo=PROJETO3&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/VANESSENCEWEB/PROJETO4">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VANESSENCEWEB&repo=PROJETO4&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" />
-      </a>
-    </td>
-  </tr>
-</table>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VANESSENCEWEB&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VANESSENCEWEB&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF"/>
 </div>
 
 ---
 
-<div align="center">
-
-## 🎨 **O QUE EU FAÇO**
-
-```mermaid
-graph LR
-    A[💡 Ideia] -->|Análise| B[📋 Planejamento]
-    B -->|Design| C[🎨 UI/UX]
-    C -->|Desenvolvimento| D[⚙️ Backend]
-    C -->|Desenvolvimento| E[🖥️ Frontend]
-    D -->|Integração| F[🔗 API]
-    E -->|Integração| F
-    F -->|Testes| G[✅ Quality Assurance]
-    G -->|Deploy| H[🚀 Produção]
-    H -->|Monitoramento| I[📊 Analytics]
-    I -->|Melhoria| A
+## 🌱 Jornada de Aprendizado
+```javascript
+const vanessa = {
+    atualmente: "Estudante de SI na UNICAP",
+    aprendendo: ["JavaScript", "React", "Node.js"],
+    objetivo2025: "Conquistar primeira vaga como Dev",
+    hobbies: ["Codar", "Resolver bugs", "Tomar café"],
+    frase: "Cada linha de código é um passo rumo ao sonho! 💙"
+};
 ```
 
-</div>
-
 ---
 
-## 📈 **MÉTRICAS DE CÓDIGO**
+## 📫 Vamos Conectar?
 
-<div align="center">
-
-<!-- WakaTime Stats (se você usar) -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=vanessenceweb&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&custom_title=⏱️+Coding+Activity" />
-
-<!-- Atividade de Commit por hora -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VANESSENCEWEB&theme=github-compact&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF&area=true&custom_title=📊+Coding+Activity+Heatmap" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 **CONECTE-SE COMIGO**
-
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/vanessarafaella" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto: imvanessarafaella@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:imvanessarafaella@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://twitter.com/SEU_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://dev.to/SEU_DEVTO" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
-  </a>
-  <a href="SEU_PORTFOLIO.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  <a href="https://github.com/VANESSENCEWEB" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-### 💬 **Code is like humor. When you have to explain it, it's bad.**
+<div align="center">
+  
+### 💬 *"O código mais difícil é o primeiro. Depois disso, é só continuar!"*
+
+<img src="https://komarev.com/ghpvc/?username=VANESSENCEWEB&color=00F7F7&style=for-the-badge&label=Visitantes" alt="Profile Views"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-## 📫 **VAMOS TRABALHAR JUNTOS?**
-
-**Estou aberta a oportunidades desafiadoras e projetos inovadores!**
-
-<p>
-  <img src="https://img.shields.io/badge/Disponível_para-Projetos_Freelance-00FF00?style=for-the-badge&logo=freelancer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open_to-Full_Time_Positions-00F7F7?style=for-the-badge&logo=handshake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Looking_for-Tech_Challenges-FF00FF?style=for-the-badge&logo=rocket&logoColor=white"/>
-</p>
-
-### 📧 **Contato:** [imvanessarafaella@gmail.com](mailto:imvanessarafaella@gmail.com)
-### 💼 **LinkedIn:** [linkedin.com/in/vanessarafaella](https://linkedin.com/in/vanessarafaella)
-
-</div>
-
----
-
-### 🐍 **Contribution Snake**
-
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VANESSSENCEWEB/VANESSSENCEWEB/output/github-contribution-grid-snake.svg">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 <div align="center">
-
-<!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=00F7F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-
-<!-- Footer animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=20&fontColor=fff&animation=twinkling"/>
-
-### ⭐ **Se você gostou do meu perfil, deixe uma estrela nos meus repositórios!** ⭐
-
-**Feito com 💙 e muito ☕**
+  
+**✨ Feito com 💙 e muita dedicação | Em construção... como todo bom dev! 🚀**
 
 </div>
-
