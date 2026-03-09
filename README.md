@@ -72,6 +72,8 @@ Hi there! I'm an **Information Systems student at UNICAP** taking my first steps
 
 ## 📚 Certifications & Courses
 
+[![Introdução ao UX Design](https://hermes.dio.me/courses/badge/053f9156-c51c-47c5-b742-fb05e58fbf87.png)](https://www.dio.me/certificate/92AILSX8/share)
+
 ### **💻 Web Development & Programming**
 - **Programming Logic Fundamentals** - DIO (GFT Program)
 - **Git & GitHub Version Control** - DIO
